@@ -1,6 +1,7 @@
 ### Hi there 👋
 * Check out my latest Cambridge robot competition project [here](https://github.com/apple-phi/idp).
-* I am currently working on my webpage, check it out [here](https://gaelberlan.ga). I will redo it and add new projects to it.
+* I am working on a Poker AI using TensorFlow to integrate into my website.
+* Check out my website [here](https://gaelberlan.ga).
 
 <!--
 **Gael-BB/Gael-BB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
