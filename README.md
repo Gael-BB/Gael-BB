@@ -1,6 +1,6 @@
 ### Hi there 👋
-* Check out my latest Cambridge robot competition project [here](https://github.com/apple-phi/idp).
-* I am working on a Poker AI using TensorFlow to integrate into my website.
+* I am a Cambridge Engineering Student.
+* I am working on a Poker AI using TensorFlow that will be integrated onto my website.
 * Check out my website [here](https://gaelberlan.ga).
 
 <!--
