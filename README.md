@@ -1,6 +1,5 @@
 ### Hi there 👋
 * I am a Cambridge Engineering Student.
-* I am working on a Poker AI using counterfactual regret minimization.
 * Check out my website [here](https://gaelberlan.ga).
 
 <!--
